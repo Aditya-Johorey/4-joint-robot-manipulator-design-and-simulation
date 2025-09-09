@@ -57,6 +57,8 @@ The primary objective of this project was to:
   - Derived symbolically for mapping joint velocities to end-effector velocities.  
   - Includes intermediate Jacobians for **center of mass tracking** (2D case).  
 
+**All works are present in detail in the Project Report and Matlab Files in the repository.**
+
 ---
 
 ## ⚡ Dynamics  
@@ -70,7 +72,7 @@ The primary objective of this project was to:
 ## 🎮 Control  
 
 - **Controller Type:** Proportional-Derivative (PD) joint-space controller.  
-- **Implementation:** MATLAB Simulink model with imported CAD assembly.  
+- **Implementation:** MATLAB Simulink model with imported CAD assembly (Please check the Inventor and Simulink files for details). 
 - **Control Law:**  
 
   <img width="565" height="116" alt="image" src="https://github.com/user-attachments/assets/fac97df4-64d9-4b83-88ac-28c3724a3761" />
